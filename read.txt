@@ -1,4 +1,4 @@
 Creating a new branch is quick!
 And it's suprising that I can use vim at Git Bash.
 So amazing linus and his git are!
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
